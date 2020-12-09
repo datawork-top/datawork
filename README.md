@@ -8,7 +8,8 @@
 
 
 ## 演示图
-
-
+[首页](docs/screenshot.png)
+## 特别感谢 ruoyi-vue项目作者们
+## 钉钉群：33426053
 
 [LICENSE](LICENSE) AGPL3.0
